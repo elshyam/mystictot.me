@@ -22,8 +22,8 @@ googleAnalytics = "UA-XXXXX-Y"
         # Personal settings
 
     name = "Shyam Saini - MysticTot"
-        position = "Kernel Hacker"
-	email = "msfjarvis@gmail.com"
+        position = "Kernel Dev blah blah"
+	email = "mayhs11saini@gmail.com"
 	[params.contact]
 		enable = false
 		formTitle = "Touch Me!"
